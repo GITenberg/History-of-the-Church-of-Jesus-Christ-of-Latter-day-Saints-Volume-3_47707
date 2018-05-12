@@ -1,4 +1,5 @@
 _repo: History-of-the-Church-of-Jesus-Christ-of-Latter-day-Saints-Volume-3_47707
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
       gutenberg_agent_id: '37629'
       url: http://www.gutenberg.org/2009/agents/37629
       wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
+covers:
+- cover_type: archival
+  image_path: 47707-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Joseph, Jr.
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/12
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Smith%2C_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47707#History-of-the-Church-of-Jesus-Christ-of-Latter-day-Saints-Volume-3
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-12-19'
 gutenberg_type: Text
